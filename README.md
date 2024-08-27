@@ -1,6 +1,5 @@
 # Hello, I'm Maria! 👋
 
-<img src='https://github.com/user-attachments/assets/bc457060-515d-4114-b879-f6aaeb921eed' width="100" height="100" style="vertical-align: middle;">
 ![icons8-programmer-64](https://github.com/user-attachments/assets/bc457060-515d-4114-b879-f6aaeb921eed)
 ![icons8-html-5-48](https://github.com/user-attachments/assets/050a5991-538b-4a5b-98d1-dc82e2668ac2)
 
