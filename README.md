@@ -40,5 +40,6 @@ I'm open to frontend development opportunities where I can apply my technical ex
 
 ✨ I firmly believe that IT and STEM have the power to improve people's lives, and I'm committed to contributing to this progress to the best of my abilities and strengths.
 
-|icons by [Icon8](https://icons8.ru)|
-|----------------------------------:|
+---
+
+<div style="text-align: right;">icons by [Icon8](https://icons8.ru)</div>
