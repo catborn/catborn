@@ -24,7 +24,7 @@ I'm open to frontend development opportunities where I can apply my technical ex
 
 ## 📫 How to Reach Me
 
-itnoz@yandex.ru
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/catborn)
 
 ---
 
