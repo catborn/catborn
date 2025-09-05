@@ -6,7 +6,7 @@
 ![icons8-js-48](https://github.com/user-attachments/assets/cd87aed1-78bd-415c-b226-9bc31b4ada04)
 ![icons8-react-40](https://github.com/user-attachments/assets/23ce1260-1242-47d0-9495-51926ffca77a)
 ![icons8-sass-48](https://github.com/user-attachments/assets/4925ddaa-a5e5-4d7d-bbf4-dd00c961ba50)
-<img width="48" height="48" alt="icons8-typescript-48" src="https://github.com/user-attachments/assets/cb676148-2ee6-40c4-a7f9-d6db9fbc18d9" />
+<img width="36" height="36" alt="icons8-typescript-48" src="https://github.com/user-attachments/assets/cb676148-2ee6-40c4-a7f9-d6db9fbc18d9" />
 
 
 
