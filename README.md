@@ -11,7 +11,7 @@
 
 
 
-I'm a seasoned IT professional expanding my expertise into frontend development to advance my career. With a strong technical background and over 17 years of experience as a system administrator and software engineer, I bring a wealth of knowledge to enhance my frontend skills.
+I'm a seasoned IT professional expanding my expertise into frontend development to advance my career. With a strong technical background and over 18 years of experience as a system administrator and software engineer, I bring a wealth of knowledge to enhance my frontend skills.
 
 ## 🚀 My IT Journey
 
