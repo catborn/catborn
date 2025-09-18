@@ -39,11 +39,9 @@ I'm open to frontend development opportunities where I can apply my technical ex
 
 ✨ I firmly believe that IT and STEM have the power to improve people's lives, and I'm committed to contributing to this progress to the best of my abilities and strengths.
 
-##
 <!--https://github-readme-stats.vercel.app/api?username=catborn-->
-![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=catborn&theme=cobalt&show_icons=true)
+<!--![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=catborn&theme=cobalt&show_icons=true)-->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catborn&layout=compact)](https://github.com/catborn/github-readme-stats)-->
-
 ## 
 icons by [Icon8](https://icons8.com)
