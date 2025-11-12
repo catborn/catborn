@@ -42,7 +42,7 @@ I'm open to frontend development opportunities where I can apply my technical ex
 <!--https://github-readme-stats.vercel.app/api?username=catborn-->
 ![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=catborn&theme=tokyonight&hide_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catborn&theme=tokyonight&hide=CSS,HTML,SHELL,JAVA&langs_count=3)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catborn&theme=tokyonight&hide=CSS,HTML,SHELL,JAVA&langs_count=3)-->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catborn&layout=compact)](https://github.com/catborn/github-readme-stats)-->
 ## 
