@@ -10,7 +10,7 @@
 
 
 
-I'm a seasoned IT professional with over 18 years of experience as a system administrator, software engineer, and generalist keeping a small company's IT infrastructure running. Currently, I'm expanding my expertise into modern infrastructure (Linux, automation, monitoring) and development practices, including frontend, to build a broader technical foundation for SRE and DevOps roles."
+I'm a seasoned IT professional with over 18 years of experience as a system administrator, software engineer, and generalist ensuring the stable operation of a branch office within a large corporate structure. Currently, I'm expanding my expertise into modern infrastructure (Linux, automation, monitoring) and development practices, including frontend, to build a broader technical foundation for SRE and DevOps roles.
 
 ## 🚀 My IT Journey
 
