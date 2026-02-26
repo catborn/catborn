@@ -30,7 +30,7 @@ I'm currently diving deep into frontend technologies, combining my extensive IT 
 
 ## 💼 Looking For
 
-I'm open to <!--frontend development--> opportunities where I can apply my technical expertise.<!-- and newly acquired frontend skills.--> Let's connect and create amazing web experiences together!
+Open to SRE, DevOps, and infrastructure roles where I can leverage 18+ years of system administration experience. Passionate about automation, monitoring, and building reliable systems. Let's connect!
 
 
 [//]: #[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/catborn)
