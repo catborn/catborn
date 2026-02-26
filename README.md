@@ -1,12 +1,12 @@
 # Hello, I'm Maria! 👋
 
 ![icons8-programmer-64](https://github.com/user-attachments/assets/bc457060-515d-4114-b879-f6aaeb921eed)
-![icons8-html-5-48](https://github.com/user-attachments/assets/050a5991-538b-4a5b-98d1-dc82e2668ac2)
+<!--![icons8-html-5-48](https://github.com/user-attachments/assets/050a5991-538b-4a5b-98d1-dc82e2668ac2)
 ![icons8-css3-48](https://github.com/user-attachments/assets/e1376d30-3195-4e55-b81a-ca49124a76e9)
 ![icons8-js-48](https://github.com/user-attachments/assets/cd87aed1-78bd-415c-b226-9bc31b4ada04)
 ![icons8-react-40](https://github.com/user-attachments/assets/23ce1260-1242-47d0-9495-51926ffca77a)
 ![icons8-sass-48](https://github.com/user-attachments/assets/4925ddaa-a5e5-4d7d-bbf4-dd00c961ba50)
-<img width="36" height="36" alt="icons8-typescript-48" src="https://github.com/user-attachments/assets/cb676148-2ee6-40c4-a7f9-d6db9fbc18d9" />
+<img width="36" height="36" alt="icons8-typescript-48" src="https://github.com/user-attachments/assets/cb676148-2ee6-40c4-a7f9-d6db9fbc18d9" />-->
 
 
 
